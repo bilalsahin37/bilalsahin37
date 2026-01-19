@@ -1,39 +1,39 @@
-# Merhaba, Ben Bilal ŞAHİN 👋
-### Uzman Sosyolog | Python Django & Mobil Uygulama Geliştiricisi | İş Analisti
+# Hi there, I'm Bilal ŞAHİN 👋
+### Expert Sociologist | Python Django & Mobile App Developer | Business Analyst
 
-- 🏥 **Sağlık & Teknoloji:** İstanbul Başakşehir Çam ve Sakura Şehir Hastanesi'nde (ASKOM Birimi) görev yapan bir kamu personeliyim. Sağlık sektöründeki saha tecrübemi yazılım çözümlerine dönüştürüyorum.
-- 🎓 **Eğitim:** Psikoloji alanında yüksek lisans ve Yönetim Bilişim Sistemleri alanında lisans derecelerine sahibim.
-- 🚀 **Güncel Odak:** Acil sağlık koordinasyonu ve tıbbi cihaz takip sistemleri için dijital çözümler geliştiriyorum.
-- 📍 **Konum:** İstanbul, Türkiye.
+- 🏥 **Health & Tech:** I am a public servant at Istanbul Başakşehir Çam ve Sakura City Hospital. I combine my healthcare expertise with modern software development.
+- 🎓 **Education:** Master's in Psychology & Bachelor's in Management Information Systems.
+- 🚀 **Current Focus:** Developing specialized digital tools for emergency health coordination and medical equipment tracking.
+- 📍 **Location:** Istanbul, Turkey.
 
 ---
 
-### 🛠 Teknik Yetkinlikler
+### 🛠 Technical Stack
 
-| Kategori | Teknolojiler |
+| Category | Technologies |
 | :--- | :--- |
-| **Arka Plan (Backend)** | Python, Django, PostgreSQL |
-| **Mobil Geliştirme** | React Native, Flutter |
-| **Ön Yüz (Frontend)** | JavaScript, HTML5, CSS3, Bootstrap |
-| **Analiz & Tasarım** | İş Analizi, Veri Tabanı Model Tasarımı |
+| **Backend** | Python, Django, PostgreSQL |
+| **Mobile** | React Native, Flutter |
+| **Frontend** | JavaScript, HTML5, CSS3, Bootstrap |
+| **Analysis** | Business Analysis, Database Model Design |
 
 ---
 
-### 🏗️ Güncel Projeler (2025)
+### 🏗️ Featured Projects (2025)
 
-* **MEDIKOS:** Acil sağlık koordinasyonu için geliştirilen Python & Django tabanlı platform.
-* **Biyomedikal 360:** Tıbbi cihazların teknik servis süreçlerini takip eden React Native uygulaması.
-* **HealthFit Pro:** Sağlık, zindelik ve beslenme üzerine odaklanan mobil proje.
-* **HHYS:** Hasta hakları takibi ve yönetimi için dijital sistem.
+* **MEDIKOS:** Emergency health coordination platform built with Python and Django.
+* **Biyomedikal 360:** Technical service tracking app for medical devices (React Native).
+* **HealthFit Pro:** Mobile application focused on health and wellness.
+* **HHYS:** Patient rights management and tracking system.
 
 ---
 
-### 📫 İletişim
+### 📫 Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/bilal-sahin](https://linkedin.com/in/bilal-sahi%CC%87n)
-* **E-posta:** bilalsahin37@hotmail.com
-* **İlgi Alanları:** Yapay Zeka, Makine Öğrenmesi, Psikoloji ve Bilim Kurgu.
+* **Email:** bilalsahin37@hotmail.com
+* **Interests:** AI, Machine Learning, Psychology, and Science Fiction.
 
 ---
 
-![Bilal'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=bilalsahin37&show_icons=true&theme=radical)
+![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalsahin37&show_icons=true&theme=tokyonight)

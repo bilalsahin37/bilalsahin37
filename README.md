@@ -1,39 +1,39 @@
-# Hi there, I'm Bilal ŞAHİN 👋
-### Expert Sociologist | Python Django & Mobile App Developer | [cite_start]Business Analyst [cite: 2]
+# Merhaba, Ben Bilal ŞAHİN 👋
+### Uzman Sosyolog | Python Django & Mobil Uygulama Geliştiricisi | İş Analisti
 
-- [cite_start]🏥 **Health & Tech:** I am a 657 4/A Public Servant currently working at Istanbul Başakşehir Çam ve Sakura City Hospital (ASKOM Unit)[cite: 2, 45, 46].
-- [cite_start]🎓 **Education:** I hold a Master's degree in Psychology and a Bachelor's degree in Management Information Systems[cite: 6, 7].
-- [cite_start]🚀 **Current Focus:** I specialize in developing digital solutions for emergency health coordination and technical service tracking[cite: 28, 30].
-- [cite_start]📍 **Location:** Based in Istanbul, Turkey[cite: 3].
+- 🏥 **Sağlık & Teknoloji:** İstanbul Başakşehir Çam ve Sakura Şehir Hastanesi'nde (ASKOM Birimi) görev yapan bir kamu personeliyim. Sağlık sektöründeki saha tecrübemi yazılım çözümlerine dönüştürüyorum.
+- 🎓 **Eğitim:** Psikoloji alanında yüksek lisans ve Yönetim Bilişim Sistemleri alanında lisans derecelerine sahibim.
+- 🚀 **Güncel Odak:** Acil sağlık koordinasyonu ve tıbbi cihaz takip sistemleri için dijital çözümler geliştiriyorum.
+- 📍 **Konum:** İstanbul, Türkiye.
 
 ---
 
-### 🛠 Technical Stack
+### 🛠 Teknik Yetkinlikler
 
-| Category | Technologies |
+| Kategori | Teknolojiler |
 | :--- | :--- |
-| **Backend** | [cite_start]Python, Django, PostgreSQL [cite: 14, 30] |
-| **Mobile** | [cite_start]React Native, Flutter [cite: 15] |
-| **Frontend** | [cite_start]JavaScript, HTML5, CSS3, Bootstrap [cite: 17] |
-| **Analysis** | [cite_start]Business Analysis, Database Model Design [cite: 2, 16] |
+| **Arka Plan (Backend)** | Python, Django, PostgreSQL |
+| **Mobil Geliştirme** | React Native, Flutter |
+| **Ön Yüz (Frontend)** | JavaScript, HTML5, CSS3, Bootstrap |
+| **Analiz & Tasarım** | İş Analizi, Veri Tabanı Model Tasarımı |
 
 ---
 
-### 🏗️ Ongoing Projects (2025)
+### 🏗️ Güncel Projeler (2025)
 
-* [cite_start]**MEDIKOS:** An emergency health coordination platform built with Python Django and PostgreSQL[cite: 29, 30].
-* [cite_start]**Biyomedikal 360:** A technical service tracking app for medical devices developed with React Native[cite: 27, 28].
-* [cite_start]**HealthFit Pro:** A mobile application focused on health, wellness, and nutrition[cite: 24, 25, 26].
-* [cite_start]**HHYS:** A digital management system for tracking patient rights[cite: 31, 32].
-
----
-
-### 📫 Connect with Me
-
-* [cite_start]**LinkedIn:** [linkedin.com/in/bilal-sahin](https://linkedin.com/in/bilal-sahi%CC%87n) [cite: 3]
-* [cite_start]**Email:** bilalsahin37@hotmail.com [cite: 3]
-* [cite_start]**Interests:** AI, Machine Learning, Psychology, and Science Fiction[cite: 77].
+* **MEDIKOS:** Acil sağlık koordinasyonu için geliştirilen Python & Django tabanlı platform.
+* **Biyomedikal 360:** Tıbbi cihazların teknik servis süreçlerini takip eden React Native uygulaması.
+* **HealthFit Pro:** Sağlık, zindelik ve beslenme üzerine odaklanan mobil proje.
+* **HHYS:** Hasta hakları takibi ve yönetimi için dijital sistem.
 
 ---
 
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalsahin37&show_icons=true&theme=tokyonight)
+### 📫 İletişim
+
+* **LinkedIn:** [linkedin.com/in/bilal-sahin](https://linkedin.com/in/bilal-sahi%CC%87n)
+* **E-posta:** bilalsahin37@hotmail.com
+* **İlgi Alanları:** Yapay Zeka, Makine Öğrenmesi, Psikoloji ve Bilim Kurgu.
+
+---
+
+![Bilal'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=bilalsahin37&show_icons=true&theme=radical)
